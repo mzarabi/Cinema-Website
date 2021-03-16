@@ -1,4 +1,4 @@
-# cinema-project
+# Cinema website
 
 A school project where we were asked to created a sample site for a cinema company.
 It comes with a simple SQLite Database setup where most of the information is stored and loaded from. Sample dates are set in the DB and some functionality might be lost if this project is viewed after march 2021. Update the dates to current month you are in and it will load properly from the DB.
@@ -12,3 +12,10 @@ Rasmus Holst - (rholst1)
 Jesper Utriainen - (lemuringen)
 Stefan Holmqvist - (sholmqvist)
 Sena Abdul Hussein - (Sena-AH)
+
+# How to run
+
+* open terminal in your IDE
+* type in "cd server"
+* type in "node index"
+* open your browser and type in "localhost:3000"
