@@ -18,4 +18,4 @@ Sena Abdul Hussein - (Sena-AH)
 * open terminal in your IDE
 * type in "cd server"
 * type in "node index"
-* open your browser and type in "localhost:3000"
+* open your browser and go to "localhost:3000"
